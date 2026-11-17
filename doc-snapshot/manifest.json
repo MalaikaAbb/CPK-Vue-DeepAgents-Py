@@ -1,0 +1,385 @@
+{
+  "schema": 1,
+  "docsRoot": "https://docs.copilotkit.ai/vue/deepagents",
+  "syncedAt": "2026-11-13T14:39:35.160Z",
+  "pages": {
+    "/deepagents/generative-ui/components": {
+      "file": "deepagents__generative-ui__components.md",
+      "sha256": "f52efa90581892a246b8bdb47f1f19914c205a0012f69340157dedf8c56446a5",
+      "bytes": 33533,
+      "lines": 795,
+      "routes": [
+        "/generative-ui/components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/catalogs": {
+      "file": "deepagents__generative-ui__components__catalogs.md",
+      "sha256": "78ec761349fff08a1869c7854bbcd0aac4e94d0cb2ebe630f29d2c827c008ea1",
+      "bytes": 23825,
+      "lines": 520,
+      "routes": [
+        "/generative-ui/components/catalogs"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/from-a2ui": {
+      "file": "deepagents__generative-ui__components__from-a2ui.md",
+      "sha256": "c252e6e9d1100543fd54a78e2a65c089f227f772a627150536fac40d6bd87ab5",
+      "bytes": 16664,
+      "lines": 279,
+      "routes": [
+        "/generative-ui/components/from-a2ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/markdown-mode": {
+      "file": "deepagents__generative-ui__components__markdown-mode.md",
+      "sha256": "e7457b6bf526db828f51682c72da9b9537e9d507bb342be1ecb89b12b4303a11",
+      "bytes": 8735,
+      "lines": 188,
+      "routes": [
+        "/generative-ui/components/markdown-mode"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/standard-catalog": {
+      "file": "deepagents__generative-ui__components__standard-catalog.md",
+      "sha256": "7df2aad12ff6d96e256b18a9b3260a7809f5283b0a72a49c5a722041e0cbcaad",
+      "bytes": 16158,
+      "lines": 238,
+      "routes": [
+        "/generative-ui/components/standard-catalog"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/state-and-actions": {
+      "file": "deepagents__generative-ui__components__state-and-actions.md",
+      "sha256": "c72110bdb658b46421d02f8915b3d4fd3845ca2c708d5488a2d2d2ad94c37617",
+      "bytes": 23519,
+      "lines": 556,
+      "routes": [
+        "/generative-ui/components/state-and-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/surfaces": {
+      "file": "deepagents__generative-ui__components__surfaces.md",
+      "sha256": "e88e7be3aafc1e3feb74f73ed8c2672b42116d7984529a294e8566a72414c415",
+      "bytes": 21256,
+      "lines": 427,
+      "routes": [
+        "/generative-ui/components/surfaces"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/theming": {
+      "file": "deepagents__generative-ui__components__theming.md",
+      "sha256": "ada7eef390396d026be54d95664be69d5e71a0038de076f4890a310d322a4fec",
+      "bytes": 6802,
+      "lines": 203,
+      "routes": [
+        "/generative-ui/components/theming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/deepagents/generative-ui/components/transports": {
+      "file": "deepagents__generative-ui__components__transports.md",
+      "sha256": "de084b845d5e1c2d6a3a6a961620446699d8f65ed2a3df20f178b2aa2a62ddaa",
+      "bytes": 5158,
+      "lines": 139,
+      "routes": [
+        "/generative-ui/components/transports"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/vue/deepagents": {
+      "file": "vue__deepagents.md",
+      "sha256": "c18561cd09dc7db7ef816de6392a4d7e5c244fac9c15a0da44d6704ad58d8571",
+      "bytes": 8231,
+      "lines": 201,
+      "routes": [
+        "/",
+        "/quickstart"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/vue/deepagents/custom-look-and-feel/headless-ui": {
+      "file": "vue__deepagents__custom-look-and-feel__headless-ui.md",
+      "sha256": "5c13d0d1af89fa178fed9570f9a897abeff3b22acd9880f539c91f272540f91a",
+      "bytes": 7206,
+      "lines": 195,
+      "routes": [
+        "/custom-look-and-feel/headless-ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/vue/deepagents/custom-look-and-feel/slots": {
+      "file": "vue__deepagents__custom-look-and-feel__slots.md",
+      "sha256": "992430bb56a5ab1d285cfae290b94341e89d1e3a910166d582a705103c1db89e",
+      "bytes": 8806,
+      "lines": 270,
+      "routes": [
+        "/custom-look-and-feel/slots"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/vue/deepagents/frontend-tools": {
+      "file": "vue__deepagents__frontend-tools.md",
+      "sha256": "c039a209fbfeae2f5121070e825d0a25f39f21b5466a89185fd69365b47a903d",
+      "bytes": 3136,
+      "lines": 76,
+      "routes": [
+        "/frontend-tools"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:36 GMT"
+    },
+    "/vue/deepagents/generative-ui/mcp-apps": {
+      "file": "vue__deepagents__generative-ui__mcp-apps.md",
+      "sha256": "a56ae2f57bffbfdd5959094850de7ba2284895815ad13cd3fe7df5c3d2ff6ee6",
+      "bytes": 5472,
+      "lines": 155,
+      "routes": [
+        "/generative-ui/mcp-apps"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/generative-ui/state-rendering": {
+      "file": "vue__deepagents__generative-ui__state-rendering.md",
+      "sha256": "fb1fafa286a38412d1c52cecdf417dc9b7b211aad08261a99d864d80b8c0ad86",
+      "bytes": 5821,
+      "lines": 156,
+      "routes": [
+        "/generative-ui/state-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/generative-ui/tool-based": {
+      "file": "vue__deepagents__generative-ui__tool-based.md",
+      "sha256": "d931e95dd2eedd0d1cad7a8a4358077635d6207cdab1042b4e05ccf668b416fb",
+      "bytes": 3477,
+      "lines": 84,
+      "routes": [
+        "/generative-ui/tool-based"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/generative-ui/tool-rendering": {
+      "file": "vue__deepagents__generative-ui__tool-rendering.md",
+      "sha256": "5d8cf6a28ed0a25e640bb192524a0bc41a3ae279b3267e2c4c053bcd7e1d487f",
+      "bytes": 6463,
+      "lines": 164,
+      "routes": [
+        "/generative-ui/tool-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/headless-threads": {
+      "file": "vue__deepagents__headless-threads.md",
+      "sha256": "ec08f9db5e381fa28c832f82d5c5b1a4e55d4c84eae09cb92d96143ad4dc8d0b",
+      "bytes": 7580,
+      "lines": 182,
+      "routes": [
+        "/headless-threads"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/human-in-the-loop": {
+      "file": "vue__deepagents__human-in-the-loop.md",
+      "sha256": "106b451568ba0728213c3a3fbf0c4f791ea050c1437bb71081770d4c69bb2b7b",
+      "bytes": 4070,
+      "lines": 80,
+      "routes": [
+        "/human-in-the-loop"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/human-in-the-loop/governed-actions": {
+      "file": "vue__deepagents__human-in-the-loop__governed-actions.md",
+      "sha256": "6108b33ad1000801d9062b0cd869240c294ad278ee202eaae810db0217a636ac",
+      "bytes": 8125,
+      "lines": 247,
+      "routes": [
+        "/human-in-the-loop/governed-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/human-in-the-loop/headless": {
+      "file": "vue__deepagents__human-in-the-loop__headless.md",
+      "sha256": "9df2eb5e5ec5a40d90f1f79121d205ff822721b569595566d54b9b27e672d6bc",
+      "bytes": 2113,
+      "lines": 55,
+      "routes": [
+        "/human-in-the-loop/headless"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/human-in-the-loop/useInterrupt": {
+      "file": "vue__deepagents__human-in-the-loop__useInterrupt.md",
+      "sha256": "dbbb8130692d29f63d62201bc3239724656755966d839c180207502d832f1800",
+      "bytes": 5190,
+      "lines": 127,
+      "routes": [
+        "/human-in-the-loop/useInterrupt"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/multi-agent/subagents": {
+      "file": "vue__deepagents__multi-agent__subagents.md",
+      "sha256": "16423de878d940c0d871a11fa3550ef9c79d61641adc8d6e21afe858a088ac13",
+      "bytes": 16419,
+      "lines": 442,
+      "routes": [
+        "/multi-agent/subagents"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/prebuilt-components": {
+      "file": "vue__deepagents__prebuilt-components.md",
+      "sha256": "a726aea19ed6412af2ed22cef434e738a61f04c961fd01c68f2970e2a6b64974",
+      "bytes": 2757,
+      "lines": 70,
+      "routes": [
+        "/prebuilt-components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/prebuilt-components/copilot-threads-drawer": {
+      "file": "vue__deepagents__prebuilt-components__copilot-threads-drawer.md",
+      "sha256": "987dcd7391c17ebcd9a6ddd59763eea8b3bb9131d7cb7939ca3d2acf5add4187",
+      "bytes": 10467,
+      "lines": 243,
+      "routes": [
+        "/prebuilt-components/copilot-threads-drawer"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/programmatic-control": {
+      "file": "vue__deepagents__programmatic-control.md",
+      "sha256": "98cdd2713a945f7f9cb00e98470a4c9cd5758ab3ad5792d7bf1392b89ae2bc73",
+      "bytes": 4860,
+      "lines": 127,
+      "routes": [
+        "/programmatic-control"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/shared-state": {
+      "file": "vue__deepagents__shared-state.md",
+      "sha256": "0039e33e03d1538b664d061bbfbe5eaf515caede853de129b6f6cd650558fe94",
+      "bytes": 7830,
+      "lines": 208,
+      "routes": [
+        "/shared-state"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/shared-state/agent-readonly": {
+      "file": "vue__deepagents__shared-state__agent-readonly.md",
+      "sha256": "9a115d195c062b0a6d49ed06889e8a758f07b581183a315609fd9f8f0530bcac",
+      "bytes": 3465,
+      "lines": 77,
+      "routes": [
+        "/shared-state/agent-readonly"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/shared-state/rendering-in-app": {
+      "file": "vue__deepagents__shared-state__rendering-in-app.md",
+      "sha256": "f7dffe872ea09d4f0df982939975a718f301a10a56e846e0595cc8853ffb9765",
+      "bytes": 5189,
+      "lines": 128,
+      "routes": [
+        "/shared-state/rendering-in-app"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:37 GMT"
+    },
+    "/vue/deepagents/shared-state/streaming": {
+      "file": "vue__deepagents__shared-state__streaming.md",
+      "sha256": "194823659a7a4cd87ff06d5f6f842491a207e3708b77a6a24a234dfb6146b633",
+      "bytes": 6622,
+      "lines": 170,
+      "routes": [
+        "/shared-state/streaming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:38 GMT"
+    },
+    "/vue/deepagents/webmcp": {
+      "file": "vue__deepagents__webmcp.md",
+      "sha256": "81e5faa16e3aa6cf1eb6ee30ab85f4de70fd3fd92c5648d7a0c2b098098db1b5",
+      "bytes": 7251,
+      "lines": 161,
+      "routes": [
+        "/webmcp"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Fri, 13 Nov 2026 14:39:38 GMT"
+    }
+  },
+  "sitemap": {
+    "fetchedAt": "2026-11-13T14:39:35.160Z",
+    "urlsUnderRoot": 0,
+    "knownUnmapped": []
+  }
+}

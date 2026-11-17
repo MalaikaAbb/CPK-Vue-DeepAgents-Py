@@ -1,0 +1,10 @@
+[project]
+name = "agent"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "copilotkit>=0.1.97",
+    "deepagents>=0.7.37",
+    "langchain-openai>=1.7.4",
+]
